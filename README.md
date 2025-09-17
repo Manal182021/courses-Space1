@@ -1,4 +1,22 @@
+This project was developed using Next.js and styled with Tailwind CSS.
+It is fully responsive, ensuring a smooth user experience across all screen sizes and devices.
+
+⚡ Key Features
+
+Implemented SSR (Server-Side Rendering) for dynamic data fetching.
+
+Built Client-side rendering features for interactive components.
+
+Clean and modern UI with Tailwind CSS utility classes.
+
+Optimized for speed, scalability, and maintainability.
+
+📱 Responsiveness
+
+The design adapts seamlessly to mobile, tablet, and desktop screens with a focus on usability and accessibility.
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+![App Screenshot](./public/images/1.png)
+![App Screenshot](./public/images/2.png)
 
 ## Getting Started
 
