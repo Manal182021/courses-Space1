@@ -15,8 +15,8 @@ Optimized for speed, scalability, and maintainability.
 
 The design adapts seamlessly to mobile, tablet, and desktop screens with a focus on usability and accessibility.
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
-![App Screenshot](./public/images/1.png)
 ![App Screenshot](./public/images/2.png)
+![App Screenshot](./public/images/1.png)
 
 ## Getting Started
 
