@@ -1,5 +1,6 @@
 import React from 'react'
 import TestimonialSlide from '../component/TestimonialSlide'
+import Todos from '../component/Todos'
 
 const page = () => {
   return (
@@ -18,7 +19,7 @@ const page = () => {
         <div>
           <img src={'/images/home-testimonial.png'}></img>
         </div>
-
+<Todos/>
       </section>
       {/* end testimonial section */}
       {/* ************************************************************** */}
